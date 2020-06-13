@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Ad Blocker Blocker
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/jack-flash/adblockerblocker/blob/master/adblocker.js
 // @version      0.1
-// @description  Eliminate Ad Popups
+// @description  Eliminate Ad Blocker Blocker Popups
 // @author       Jack Flash
 // @match        https://www.forbes.com/*
 // @match        https://www.inforum.com/*
