@@ -27,8 +27,6 @@ function timeFunc() {
 }
 
 $(document).ready(function() {
-//    setTimeout(timeFunc,  1000);
-//    setTimeout(timeFunc,  2000);
     setTimeout(timeFunc,  500);
     setTimeout(timeFunc,  1000);
     setTimeout(timeFunc,  2000);
